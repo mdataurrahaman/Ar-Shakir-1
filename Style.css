@@ -1486,7 +1486,7 @@ select {
 
 }
 
-.track-bg{
+.track-bg {
     width: 100%;
     margin: 0 auto;
     display: flex;
@@ -1497,7 +1497,7 @@ select {
 }
 
 .track {
-    
+
     width: 1170px;
     display: flex;
     padding-bottom: 20px;
@@ -1598,12 +1598,12 @@ select {
 
 .footer-bg {
     width: 100%;
-      background-color: var(--font-color);
+    background-color: var(--font-color);
 
     display: flex;
     flex-direction: column;
     align-items: center;
-   
+
 
 
 }
@@ -1611,11 +1611,11 @@ select {
 
 .footer {
     width: 1170px;
-   
+
     background-color: var(--font-color);
 
     box-sizing: content-box;
-    
+
     display: flex;
     color: var(--white-color);
 
@@ -1649,7 +1649,7 @@ select {
     letter-spacing: 0em;
     text-align: left;
     max-width: 455px;
-    
+
 
 }
 
@@ -1710,7 +1710,7 @@ select {
 
 }
 
-.copy-right{
+.copy-right {
     text-align: center;
     width: 100%;
     color: #fff;
@@ -1719,7 +1719,7 @@ select {
     padding-bottom: 20px;
 }
 
-.copy-right p{
+.copy-right p {
     margin: 20px;
-   
+
 }
